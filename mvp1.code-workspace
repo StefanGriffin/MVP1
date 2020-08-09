@@ -1,8 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "/Users/griffin/.local/share/virtualenvs/mvp1-KHZrLnVe/bin/python",
+
+            "python.pythonPath": "/Users/griffin/.local/share/virtualenvs/mvp1-KHZrLnVe/bin/python",
+        }
+    ],
+    "settings": {}
 }
